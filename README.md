@@ -13,8 +13,8 @@ The service aggregates popular platforms for daily rental housing and online boo
 
 **Technology stack**  
 
-Website - ```HTML```, ```CSS```, ```React JS```, ```FastAPI```, ```PHP```  
-Bot - ```Python```, ```Telegram Bot API```, ```Selenium```, ```SQLite```, ```TensorFlow Keras```
+Website - ```HTML``` ```CSS``` ```React JS``` ```FastAPI``` ```PHP```  
+Bot - ```Python``` ```Telegram Bot API``` ```Selenium``` ```SQLite``` ```TensorFlow Keras```
 
 **Partners**  
 
