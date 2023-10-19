@@ -20,7 +20,7 @@ The service aggregates popular platforms for daily rental housing and online boo
 
 Website contains brief information about the developed service. By filling out the form, a package of excursions will be generated according to the user’s preferences (using the NLP model) and sent to Telegram chat (authorization is required).  
 
-<img src="https://github.com/exsecantb/Idle/assets/80840150/fd73cf76-0a0e-4219-9bc6-db87b9faa9aa" height="393vh"/><img src="https://github.com/exsecantb/Idle/assets/80840150/1d11f0a8-70b8-4d92-969c-ed80dd316b3a" height="393vh"/>
+<img src="https://github.com/exsecantb/Idle/assets/80840150/fd73cf76-0a0e-4219-9bc6-db87b9faa9aa" width="78%"/><img src="https://github.com/exsecantb/Idle/assets/80840150/1d11f0a8-70b8-4d92-969c-ed80dd316b3a" width="17%"/>
 
 **Features**  
 
