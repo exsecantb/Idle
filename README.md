@@ -13,8 +13,8 @@ The service aggregates popular platforms for daily rental housing and online boo
 
 **Partners**  
 
-<a href="https://ostrovok.ru/?cur=RUB&lang=ru&partner_extra=None&partner_slug=100678.affiliate.6464&utm_campaign=ru-ru%2C+deeplink%2C+affiliate&utm_medium=api2&utm_source=100678.affiliate.6464&utm_term=None"><img src="https://github.com/exsecantb/Idle/assets/80840150/dd36c26f-f41e-44c6-89a2-6aba509f1364" width="50%"/></a><img src="https://github.com/exsecantb/Idle/assets/80840150/88e1236b-5c82-41db-bc9d-1d0e3482e1bc" width="50%"/>  
-<a href="https://sutochno.ru/?marker=39654"><img src="https://github.com/exsecantb/Idle/assets/80840150/3bba8397-187b-4ab4-a02a-6e0bcb0417a0" width="50%"/></a><img src="https://github.com/exsecantb/Idle/assets/80840150/5898f9c9-93ec-4f9c-9b45-74f2c8e11488" width="50%"/>  
+<img src="https://github.com/exsecantb/Idle/assets/80840150/dd36c26f-f41e-44c6-89a2-6aba509f1364" width="50%"/><img src="https://github.com/exsecantb/Idle/assets/80840150/88e1236b-5c82-41db-bc9d-1d0e3482e1bc" width="50%"/>  
+<img src="https://github.com/exsecantb/Idle/assets/80840150/3bba8397-187b-4ab4-a02a-6e0bcb0417a0" width="50%"/><img src="https://github.com/exsecantb/Idle/assets/80840150/5898f9c9-93ec-4f9c-9b45-74f2c8e11488" width="50%"/>  
 
 **Website**  
 
