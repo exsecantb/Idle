@@ -9,7 +9,12 @@ _____________________________________________________
 
 **Description**  
 
-The service aggregates popular platforms for daily rental housing and online booking of excursions. The software is integrated into Telegram messenger using a Telegram-Bot-API.
+The service aggregates popular platforms for daily rental housing and online booking of excursions. The software is integrated into Telegram messenger using a Telegram-Bot-API.  
+
+**Technology stack**  
+
+Website - ```HTML```, ```CSS```, ```React JS```, ```FastAPI```, ```PHP```  
+Bot - ```Python```, ```Telegram Bot API```, ```Selenium```, ```SQLite```, ```TensorFlow Keras```
 
 **Partners**  
 
@@ -22,7 +27,7 @@ Website contains brief information about the developed service. By filling out t
 
 <img src="https://github.com/exsecantb/Idle/assets/80840150/fd73cf76-0a0e-4219-9bc6-db87b9faa9aa" width="82%"/><img src="https://github.com/exsecantb/Idle/assets/80840150/1d11f0a8-70b8-4d92-969c-ed80dd316b3a" width="18%"/>
 
-**Features**  
+**Bot Features**  
 
 
 1. Easy and fast search using multiple filters:  
@@ -54,7 +59,3 @@ Website contains brief information about the developed service. By filling out t
   <img src="https://github.com/exsecantb/Idle/assets/80840150/126fd2e7-a63e-45bb-8cda-357a37851b35" width="300" />
   <img src="https://github.com/exsecantb/Idle/assets/80840150/6be5d36f-421c-4e6f-ae30-0bf610080ca3" width="300" /> 
 </p>
-
-
-
-
