@@ -3,8 +3,8 @@
 
 The repository includes the source code of the service website
 
-Website: [https://idlebot.ru](http://exsec-projects.ru/idlebot) (available, archive)  
-Service: https://t.me/idle1_bot (not supported anymore)
+Website: [https://exsec.dev/idlebot](http://exsec.dev/idlebot) (available, archive)  
+Service: https://t.me/idle1_bot (not supported)
 _____________________________________________________
 
 **Description**  
