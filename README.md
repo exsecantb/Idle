@@ -1,10 +1,10 @@
 # Idle – personalized travel package service  
-`⚠️ NOTE: Service is no longer supported, only website is available`  
+`⚠️ NOTE: Service is no longer supported, website is available for demonstration purposes`  
 
-The repository includes the source code of the service website. Note that the "search" folder is deprecated.  
+The repository includes the source code of the service website
 
-Website: [https://idlebot.ru](http://exsec-projects.ru/idlebot) (available)  
-Service: https://t.me/idle1_bot (not supported)
+Website: [https://idlebot.ru](http://exsec-projects.ru/idlebot) (available, archive)  
+Service: https://t.me/idle1_bot (not supported anymore)
 _____________________________________________________
 
 **Description**  
